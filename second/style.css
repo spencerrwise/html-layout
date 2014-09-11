@@ -1,0 +1,33 @@
+html, body {
+	width:100%;
+	height: 100%;
+}
+
+.blue {
+	background:blue;
+	width: 33%;
+	height: 100%;
+	float: left;
+	
+}
+
+.red {
+	background-color: red;
+	width: 33%;
+	height: 100%;
+	float: left;
+
+}
+
+.black {
+	background-color: black;
+	width: 33%;
+	height: 70%;
+	float: left;
+}
+
+.cat {
+	width:33%;
+	height:30%;
+	float:left;
+}
